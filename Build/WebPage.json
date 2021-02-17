@@ -1,7 +1,7 @@
 {
 "companyName": "DefaultCompany",
 "productName": "WebPage",
-"productVersion": "0.1",
+"productVersion": "0.2",
 "dataUrl": "WebPage.data.unityweb",
 "wasmCodeUrl": "WebPage.wasm.code.unityweb",
 "wasmFrameworkUrl": "WebPage.wasm.framework.unityweb",
